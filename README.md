@@ -1,2 +1,2 @@
 # ORBIT-BELAJAR
-Website media pembelajaran untuk MA/SMK mengenai Matematika dan Sains
+Website media pembelajaran untuk sMA/SMK mengenai Matematika dan Sains
